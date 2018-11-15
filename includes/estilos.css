@@ -1,0 +1,17 @@
+body{
+	background-color: #264C59;
+	font-family: Arial, Helvetica, sans-serif;
+}
+.btn-pract{
+	background-color: #FFC627;
+	right;
+}
+.panel > .panel-heading {
+    background-image: none;
+    background-color: #FFC627;
+    color: #264C59;
+
+}
+.carrera{
+	border-radius: 2000px;
+}
